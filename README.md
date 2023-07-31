@@ -1,3 +1,3 @@
 ## DSA
 
-### Here i upload all the leetcode solutions i have worked on till date.
+### Here i upload all the leetcode and gfg solutions i have worked on till date.
